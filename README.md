@@ -1,0 +1,2 @@
+# Pakimanes
+Arrays in JS
