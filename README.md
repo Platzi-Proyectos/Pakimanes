@@ -1,5 +1,4 @@
 # Pakimanes
-Arrays in JS
 
 How to use this project?
 
