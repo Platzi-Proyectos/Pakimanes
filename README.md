@@ -1,4 +1,4 @@
-# Pakimanes
+# Pakimanes 💻
 
 How to use this project?
 
